@@ -1,2 +1,2 @@
-# -Feynman-Diagrams
+# Feynman-Diagrams
 Feynman diagrams using feynman package
